@@ -1,0 +1,8 @@
+{
+  "version": "2024-01-01",
+  "traceId": "abc123-def456-ghi789",
+  "error": {
+    "code": "INVALID_REQUEST",
+    "message": "잘못된 카드번호 입니다."
+  }
+}

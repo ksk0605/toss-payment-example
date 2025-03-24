@@ -1,0 +1,16 @@
+{
+    "mId": "toss_mid_123",
+    "customerKey": "customer_key_123",
+    "authenticatedAt": "2024-01-01T12:00:00+09:00",
+    "method": "card",
+    "billingKey": "billing_key_123",
+    "cardCompany": "Visa",
+    "cardNumber": "1234-****",
+    "card": {
+        "issuerCode": "123",
+        "acquirerCode": "456",
+        "number": "1234-****",
+        "cardType": "credit",
+        "ownerType": "individual"
+    }
+}
